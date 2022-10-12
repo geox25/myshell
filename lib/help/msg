@@ -1,1 +1,3 @@
-Test message
+Available Commands:
+hp (or help depending on how compiled): Displays this message
+show: requires one argument (file), prints contents of the file
