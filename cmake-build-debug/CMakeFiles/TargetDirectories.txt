@@ -1,6 +1,0 @@
-/home/geo/CLionProjects/myshell/cmake-build-debug/CMakeFiles/myshell.dir
-/home/geo/CLionProjects/myshell/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/geo/CLionProjects/myshell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/geo/CLionProjects/myshell/cmake-build-debug/pbin/CMakeFiles/hp.dir
-/home/geo/CLionProjects/myshell/cmake-build-debug/pbin/CMakeFiles/edit_cache.dir
-/home/geo/CLionProjects/myshell/cmake-build-debug/pbin/CMakeFiles/rebuild_cache.dir
